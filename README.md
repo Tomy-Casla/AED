@@ -1,4 +1,7 @@
-# AED
-00-CppHelloWorld
-
-[README.md](https://github.com/Tomy-Casla/AED/files/11379285/README.md)
+## ALGORITMOS Y ESTRUCTURAS DE DATOS
++ K1051
++ 2023
++ 164.825-1
++ Quispe
++ Tommy Jamiro
++ Visual Studio Code; Compilador MSYS2 versión 12.2.0
